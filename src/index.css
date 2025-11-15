@@ -46,6 +46,7 @@ button:active{
 
 .button1{
   opacity: 0;
+  pointer-events: none;
 }
 
 .loading{
